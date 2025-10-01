@@ -7,7 +7,9 @@ sections:
       text: HAPPY 19TH BIRTHDAY
       color: text-dark
       type: TitleBlock
-    subtitle: Only a real mf intitals would actually be mf
+    subtitle: >-
+      Only a real mf would have intitals that are mf (how have I not made this
+      joke before)
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
       instantly reflected in the visual editor and since every visual edit is a
